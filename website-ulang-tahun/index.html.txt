@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ulang Tahun Kekasihku</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Selamat Ulang Tahun, Sayang! ??</h1>
+    <p>Terima kasih telah menjadi bagian terindah dalam hidupku. Aku mencintaimu lebih dari apapun!</p>
+    
+    <div class="gallery">
+      <img src="foto1.jpg" alt="Foto Kenangan 1">
+      <img src="foto2.jpg" alt="Foto Kenangan 2">
+      <img src="foto3.jpg" alt="Foto Kenangan 3">
+    </div>
+
+    <button id="surpriseButton">Klik untuk Kejutan!</button>
+    <p id="surpriseMessage" class="hidden">Aku akan selalu ada untukmu, sekarang dan selamanya. ??</p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
